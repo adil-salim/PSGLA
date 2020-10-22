@@ -1,0 +1,3 @@
+This Jupyter notebook generates the figures of the paper "Primal Dual Interpretation of the Proximal Stochastic Gradient Langevin Algorithm"
+
+Just launch the cells sequentially. To generate the figures of the paper, you have to play with the parameters d (dimension of the problem), gamma (step size of the algorithms), and lamb (smoothing parameter of MYULA). lamblist is a list of smoothing parameters lamb.
